@@ -217,8 +217,8 @@ params:
   #
   # Format:
   customTabs:
-    - name: www.gibert.ca
-      link: https://www.gibert.ca/
+    - name: gibert.ca
+      link: https://gibert.ca/
     - name: richard.gibert.ca
       link: https://richard.gibert.ca/
 
